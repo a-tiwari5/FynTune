@@ -1,0 +1,72 @@
+{
+  "shops": [
+    {
+      "name": "MicroShop",
+      "area": "Thane",
+      "category": "Grocery",
+      "openingTime": "10:00 AM",
+      "closingTime": "11:00 PM",
+      "id": 1
+    },
+    {
+      "name": "Shop2",
+      "area": "Pune",
+      "category": "Baker",
+      "openingTime": "10:00 AM",
+      "closingTime": "11:00 PM",
+      "id": 2
+    },
+    {
+      "name": "Shop3",
+      "area": "Nagpur",
+      "category": "Chemist",
+      "openingTime": "10:00 AM",
+      "closingTime": "11:00 PM",
+      "id": 3
+    },
+    {
+      "name": "Full Belly Farms",
+      "area": "Pune",
+      "category": "Baker",
+      "openingTime": "10:00",
+      "closingTime": "23:00",
+      "id": 4
+    },
+    {
+      "name": "Full Belly Farms",
+      "area": "Ahmednagar",
+      "category": "Chemist",
+      "openingTime": "10:00",
+      "closingTime": "23:00",
+      "status": false,
+      "id": 6
+    },
+    {
+      "name": "mango",
+      "area": "Mumbai Suburban",
+      "category": "StationeryShop",
+      "openingTime": "10:00",
+      "closingTime": "02:00",
+      "status": "closed",
+      "id": 7
+    },
+    {
+      "name": "aashdashdg",
+      "area": "Pune",
+      "category": "Baker",
+      "openingTime": "23:00",
+      "closingTime": "04:00",
+      "status": "closed",
+      "id": 8
+    },
+    {
+      "name": "mango",
+      "area": "Nashik",
+      "category": "Butcher",
+      "openingTime": "10:00",
+      "closingTime": "23:00",
+      "status": "closed",
+      "id": 9
+    }
+  ]
+}
